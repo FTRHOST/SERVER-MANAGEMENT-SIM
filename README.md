@@ -1,3 +1,5 @@
+[![Run on Replit](https://img.shields.io/badge/Replit-Run%20on%20Replit-blue?logo=replit&logoColor=white)](https://replit.com/@fathironmy3/SERVER-MANAGEMENT-SIM?v=1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FTRHOST/SERVER-MANAGEMENT-SIM/blob/main/UAS_PemroDas.ipynb)
 # Server Management Simulator
 
 Simulasi manajemen server sederhana berbasis terminal (CLI) yang ditulis dengan Python. Proyek ini mensimulasikan dashboard monitoring cloud server di mana Anda dapat melakukan deploy, konfigurasi, monitoring, dan manajemen server.
